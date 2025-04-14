@@ -26,7 +26,7 @@ require (
 	go.etcd.io/etcd/client/pkg/v3 v3.5.5
 	go.etcd.io/etcd/client/v3 v3.5.5
 	go.uber.org/zap v1.17.0
-	golang.org/x/oauth2 v0.0.0-20220822191816-0ebed06d0094
+	golang.org/x/oauth2 v0.7.0
 )
 
 require (
@@ -45,7 +45,7 @@ require (
 	github.com/go-playground/validator/v10 v10.11.2 // indirect
 	github.com/goccy/go-json v0.10.0 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
-	github.com/golang/protobuf v1.5.2 // indirect
+	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/gorilla/securecookie v1.1.1 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/inconshreveable/mousetrap v1.0.1 // indirect
@@ -78,13 +78,13 @@ require (
 	go.uber.org/multierr v1.6.0 // indirect
 	golang.org/x/arch v0.0.0-20210923205945-b76863e36670 // indirect
 	golang.org/x/crypto v0.5.0 // indirect
-	golang.org/x/net v0.7.0 // indirect
-	golang.org/x/sys v0.5.0 // indirect
-	golang.org/x/text v0.7.0 // indirect
+	golang.org/x/net v0.9.0 // indirect
+	golang.org/x/sys v0.7.0 // indirect
+	golang.org/x/text v0.9.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
-	google.golang.org/genproto v0.0.0-20220616135557-88e70c0c3a90 // indirect
-	google.golang.org/grpc v1.47.0 // indirect
-	google.golang.org/protobuf v1.28.1 // indirect
+	google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1 // indirect
+	google.golang.org/grpc v1.56.3 // indirect
+	google.golang.org/protobuf v1.30.0 // indirect
 	gopkg.in/ini.v1 v1.62.0 // indirect
 	gopkg.in/square/go-jose.v2 v2.6.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
