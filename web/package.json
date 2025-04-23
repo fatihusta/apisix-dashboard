@@ -139,7 +139,7 @@
     "mockjs": "^1.0.1-beta3",
     "monaco-editor": "^0.32.1",
     "pinst": "^2.1.1",
-    "postcss": "^8.4.16",
+    "postcss": "^8.4.31",
     "postcss-less": "^6.0.0",
     "prettier": "^2.0.1",
     "pro-download": "1.0.1",
